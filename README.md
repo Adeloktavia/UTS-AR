@@ -1,0 +1,1 @@
+Proyek ini adalah contoh aplikasi yang menggunakan teknologi Augmented Reality (AR) untuk membuat representasi 3D dari sebuah rumah sederhana beserta teks AR yang memberikan penjelasan tentang setiap bagian rumah.
